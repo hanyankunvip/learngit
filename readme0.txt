@@ -1,2 +1,2 @@
-git status
+git  hello status
 git status
